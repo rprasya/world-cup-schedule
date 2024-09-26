@@ -13,6 +13,13 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
     },
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: "1rem",
+        lg:"10rem"
+      }
+    }
   },
   plugins: [],
 };
