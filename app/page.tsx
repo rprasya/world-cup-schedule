@@ -1,7 +1,6 @@
 import SectionHeader from "./section/sectionHeader";
 import SectionList from "./section/sectionList";
 
-
 const Home = () => {
   return (
     <div>
@@ -9,6 +8,6 @@ const Home = () => {
       <SectionList />
     </div>
   );
-}
- 
+};
+
 export default Home;
